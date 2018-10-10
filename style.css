@@ -1,0 +1,29 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+
+body {
+  background-color: white;                  /* ovo je komentar in klasa nosi 10bodova*/
+  font-family: "Open Sans", sans-serif;
+  padding: 5px 25px;
+  font-size: 18px;
+  margin: 0;
+  color: #444;
+}
+
+
+h3{
+  font-family: cursive;    /* ovo je komentar in klasa nosi 10bodova*/
+  font-size: 21;
+  color: brown;
+  
+}
+
+h1 {
+  font-family: "Merriweather", serif;       /* ovo je komentar in klasa nosi 10bodova*/
+  font-size: 32px;
+}
+
+vsx{
+  font-size: 90px;
+}
